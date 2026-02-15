@@ -6,7 +6,8 @@ A simple HTML only resume webpage built as a web development assignment as part 
 You can view the live site here: https://ashishkr-tech.github.io/web-dev-assignments
 
 ## 📸 Screenshots
-![Resume Preview](./screenshot.png)
+![Webpage Preview](screenshot.png)
+
 
 ## 🛠️ Setup & Usage
 No complex installation is required as this project uses pure HTML.

@@ -3,7 +3,7 @@
 A simple HTML only resume webpage built as a web development assignment as part of ChaiCode Web dev 2026 cohort.
 
 # Demo
-You can view the live site here: [Insert your GitHub Pages link here]
+You can view the live site here: https://ashishkr-tech.github.io/web-dev-assignments
 
 ## 📸 Screenshots
 ![Resume Preview](./screenshot.png)
